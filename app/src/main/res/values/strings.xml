@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">testjune52021</string>
+    <string name="alertNameLabel">NAME</string>
+    <string name="alertPassLabel">PASSWORD</string>
+</resources>
